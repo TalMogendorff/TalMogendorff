@@ -2,8 +2,8 @@
 ======================================================================================================================================
 -----------------
 
-I'm a passionate and dedicated Frontend Engineer fueled by a relentless curiosity for technology. With a creative mindset and a love for clean, user-centric design, specially in the UI UX world. </br>
-What Defines Me:  </br>
+I'm a passionate and dedicated Frontend Engineer fueled by a relentless curiosity for technology. With a creative mindset and a love for clean, user-centric design, specially in the UI UX world. </br>  </br>
+What Defines Me:  </br>  </br>
 Passion for Innovation: I thrive on exploring cutting-edge technologies and leveraging them to create intuitive, sleek, and impactful frontend solutions. </br>
 User-Centric Approach: My work is rooted in understanding user behavior, ensuring seamless interactions, and delivering an exceptional user experience. </br>
 Collaborative Spirit: I believe in the power of teamwork and collaboration. I enjoy working alongside diverse teams, exchanging ideas, and collectively turning concepts into reality </br>
