@@ -2,12 +2,12 @@
 ======================================================================================================================================
 -----------------
 
-<pre>I'm a passionate and dedicated Frontend Engineer fueled by a relentless curiosity for technology. With a creative mindset and a love for clean, user-centric design, specially in the UI UX world.
+I'm a passionate and dedicated Frontend Engineer fueled by a relentless curiosity for technology. With a creative mindset and a love for clean, user-centric design, specially in the UI UX world. \n
 What Defines Me: 
 Passion for Innovation: I thrive on exploring cutting-edge technologies and leveraging them to create intuitive, sleek, and impactful frontend solutions.
 User-Centric Approach: My work is rooted in understanding user behavior, ensuring seamless interactions, and delivering an exceptional user experience.
 Collaborative Spirit: I believe in the power of teamwork and collaboration. I enjoy working alongside diverse teams, exchanging ideas, and collectively turning concepts into reality
-</pre>
+
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [talorious12@gmail.com](mailto:talorious12@gmail.com)
